@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you refer to this article, please cite it as below."
+
+version: 1.0.0
+date-released: 2023-07-23
+title: "Self-registration of infrastructure with Terraform"
+url: "https://writing.aeydr.dev/notes/terraform-aws-self-registration-infrastructure-pattern"
+authors:
+- given-names: "aeydr"
+
+preferred-citation:
+  type: article
+  journal: "The Architectural Decision Record"
+  authors:
+  - given-names: "aeydr"
+
+  title: "Self-registration of infrastructure with Terraform"
+  month: 07
+  year: 2023
