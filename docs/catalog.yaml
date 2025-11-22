@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: terraform-aws-self-registration-infrastructure-pattern
+  description: Splitting infrastructure between multiple modules for self-registration
+  tags:
+    - terraform
+    - terraform
+  annotations:
+    displayName: Self-registration of infrastructure with Terraform
+    github.com/project-slug: the-aeydr/terraform-aws-self-registration-infrastructure-pattern
+spec:
+  type: documentation
+  lifecycle: experimental
