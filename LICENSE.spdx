@@ -1,0 +1,8 @@
+SPDXVersion: SPDX-2.0
+SPDX-License-Identifier: LicenseRef-LICENSE.md
+Creator: aeydr
+PackageOriginator: aeydr
+PackageLicenseDeclared: LicenseRef-LICENSE.md
+
+PackageName: terraform-aws-self-registration-infrastructure-pattern
+PackageHomePage: https://github.com/theaeydr/terraform-aws-self-registration-infrastructure-pattern/
